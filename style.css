@@ -1,0 +1,21 @@
+h1 {
+    text-align: center;
+}
+
+p {
+    width: 800px;
+    margin: 0 auto;
+    color: darkcyan;
+
+}
+
+#main {
+    color: crimson;
+    background-color: bisque;
+}
+
+.A {
+    border: 5px solid black;
+    padding: 0px 10px 20px 30px;
+    background-color: azure;
+}
